@@ -1,14 +1,9 @@
-# react-native-google-tag-manager
+# react-native-gtm
 React Native package for using native Google tag manager libraries on iOS and Android.
 
 ## Installation
 
-1. Install `react-native-google-tag-manager`
-
-    ```
-    yarn add react-native-google-tag-manager
-    ```
-
+1. Fork it and make the reference
 2. Extra step for iOS native project: 
 
    - Open iOS project by Xcode, click `project name` node , then find `Build Phases` tab at right side windows , expand `Link Binary With Libraries` section , add below libraries:
